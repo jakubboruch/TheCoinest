@@ -1,8 +1,8 @@
-export enum Methods {
+export enum METHODS {
   Name = 'Name',
   Price = 'Price'
 }
 
-export enum Separator {
+export enum SEPARATOR {
   Default = '/'
 }
